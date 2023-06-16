@@ -4,9 +4,8 @@ import App from './list.js'
 import './list.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-<App/>
-);
+root.render
+    (<App />);
 
 
 
